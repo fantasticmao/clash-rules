@@ -31,7 +31,7 @@ allow-lan: true
 # '*': bind all IP addresses
 # 192.168.122.11: bind a single IPv4 address
 # "[aaaa::a8aa:ff:fe09:57d8]": bind a single IPv6 address
-bind-address: '*'
+bind-address: "*"
 
 # Clash router working mode
 # rule: rule-based packet routing
@@ -144,12 +144,27 @@ dns:
   #   '+.internal.crop.com': '10.0.0.1'
 
 proxies:
+  - name: ss
+    type: ss
+    server: server
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: password
+  - name: vmess
+    type: vmess
+    server: server
+    port: 443
+    uuid: uuid
+    alterId: 32
+    cipher: auto
+
+proxy-groups:
   - name: PROXY
-    type: ******
-    server: ******
-    port: ******
-    cipher: ******
-    password: ******
+    type: select
+    proxies:
+      - ss
+      - vmess
+    url: http://www.gstatic.com/generate_204
 
 # Premium only
 rule-providers:
@@ -163,11 +178,9 @@ rule-providers:
     path: ./ruleset/telegramcidr.yaml
 
 rules:
-  # 常用站点
   - RULE-SET,common,PROXY
-  # Telegram CIDR
   - RULE-SET,telegramcidr,PROXY
-  # 其它站点
+  # Others
   - GEOIP,CN,DIRECT
   - MATCH,DIRECT
 ```
