@@ -139,13 +139,13 @@ dns:
   #   '+.internal.crop.com': '10.0.0.1'
 
 proxies:
-  - name: ss
+  - name: proxy01
     type: ss
     server: server
     port: 443
     cipher: chacha20-ietf-poly1305
     password: password
-  - name: vmess
+  - name: proxy02
     type: vmess
     server: server
     port: 443
@@ -157,19 +157,23 @@ proxy-groups:
   - name: PROXY
     type: select
     proxies:
-      - ss
-      - vmess
+      - proxy01
+      - proxy02
     url: http://www.gstatic.com/generate_204
 
 # Premium only
 rule-providers:
   common:
-    type: file
+    type: http
     behavior: classical
+    url: https://cdn.jsdelivr.net/gh/fantasticmao/clash-rules@main/common.yaml
+    interval: 3600
     path: ./ruleset/common.yaml
   telegramcidr:
-    type: file
+    type: http
     behavior: classical
+    url: https://cdn.jsdelivr.net/gh/fantasticmao/clash-rules@main/telegramcidr.yaml
+    interval: 3600
     path: ./ruleset/telegramcidr.yaml
 
 rules:
