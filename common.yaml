@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,codepen.io
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,ftchinese.com
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,ietf.org
