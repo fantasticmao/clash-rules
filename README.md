@@ -47,13 +47,13 @@ rule-providers:
   common:
     type: http
     behavior: classical
-    url: https://cdn.jsdelivr.net/gh/fantasticmao/clash-rules@main/common.yaml
+    url: https://cdn.jsdelivr.net/gh/fantasticmao/clash-rules@latest/common.yaml
     interval: 3600
     path: ./ruleset/common.yaml
   telegramcidr:
     type: http
     behavior: classical
-    url: https://cdn.jsdelivr.net/gh/fantasticmao/clash-rules@main/telegramcidr.yaml
+    url: https://cdn.jsdelivr.net/gh/fantasticmao/clash-rules@latest/telegramcidr.yaml
     interval: 3600
     path: ./ruleset/telegramcidr.yaml
 
