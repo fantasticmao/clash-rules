@@ -20,13 +20,14 @@ payload:
   - DOMAIN-KEYWORD,mysql
   - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,nintendo
+  - DOMAIN-KEYWORD,nyt
   - DOMAIN-KEYWORD,oracle
   - DOMAIN-KEYWORD,outlook
   - DOMAIN-KEYWORD,pornhub
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,reddit
   - DOMAIN-KEYWORD,stackoverflow
-  - DOMAIN-KEYWORD,steamcommunity
+  - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,tumblr
@@ -55,7 +56,6 @@ payload:
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,nature.com
-  - DOMAIN-SUFFIX,nytimes.com
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,sketch.com
