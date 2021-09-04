@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,gmodules
+  - DOMAIN-KEYWORD,godoc
   - DOMAIN-KEYWORD,golang
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,grpc
