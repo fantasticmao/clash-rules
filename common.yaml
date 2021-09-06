@@ -43,10 +43,12 @@ payload:
   - DOMAIN-KEYWORD,wikipedia
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,ytimg
+  - DOMAIN-SUFFIX,a-wing.top
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,blogger.com
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,codepen.io
+  - DOMAIN-SUFFIX,diygod.me
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,ftchinese.com
@@ -57,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,news.gov.hk
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,sketch.com
@@ -66,5 +69,6 @@ payload:
   - DOMAIN-SUFFIX,spring.io
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tingtalk.me
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,youtu.be
