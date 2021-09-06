@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,ftchinese.com
+  - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,ietf.org
@@ -72,4 +73,5 @@ payload:
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tingtalk.me
   - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-SUFFIX,ycombinator.com
   - DOMAIN-SUFFIX,youtu.be
