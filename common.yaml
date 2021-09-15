@@ -55,6 +55,7 @@ payload:
   - DOMAIN-SUFFIX,ftchinese.com
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,grammarly.com
+  - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,ifixit.com
