@@ -25,6 +25,7 @@ payload:
   - DOMAIN-KEYWORD,nyt
   - DOMAIN-KEYWORD,oracle
   - DOMAIN-KEYWORD,outlook
+  - DOMAIN-KEYWORD,phncdn
   - DOMAIN-KEYWORD,pornhub
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,reddit
