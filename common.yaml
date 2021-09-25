@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,news.gov.hk
+  - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,sketch.com
