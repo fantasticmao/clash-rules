@@ -62,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,leetcode.com
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,news.gov.hk
   - DOMAIN-SUFFIX,npmjs.com
