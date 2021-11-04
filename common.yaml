@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,blogger.com
   - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-SUFFIX,codecov.io
   - DOMAIN-SUFFIX,codepen.io
   - DOMAIN-SUFFIX,diygod.me
   - DOMAIN-SUFFIX,fb.me
