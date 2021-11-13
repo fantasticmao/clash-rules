@@ -33,7 +33,6 @@ payload:
   - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,tiktok
-  - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,tumblr
   - DOMAIN-KEYWORD,tweet
   - DOMAIN-KEYWORD,twimg
@@ -64,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,leetcode.com
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,news.gov.hk
@@ -79,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tingtalk.me
+  - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,ycombinator.com
   - DOMAIN-SUFFIX,youtu.be
