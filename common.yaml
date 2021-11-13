@@ -33,6 +33,7 @@ payload:
   - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,tumblr
   - DOMAIN-KEYWORD,tweet
   - DOMAIN-KEYWORD,twimg
