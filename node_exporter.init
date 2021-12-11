@@ -1,0 +1,32 @@
+#!/bin/sh /etc/rc.common
+
+# Copyright (c) 2021 fantasticmao
+USE_PROCD=1
+START=99
+
+NAME=node_exporter
+NODE_EXPORTER_BIN="/usr/bin/node_exporter"
+NODE_EXPORTER_LOG="/var/log/node_exporter.log"
+
+start_service() {
+	nohup ${NODE_EXPORTER_BIN} >${NODE_EXPORTER_LOG} &
+	echo "${NAME} start success!"
+}
+
+stop_service() {
+	kill $(pidof ${NAME})
+	echo "${NAME} stopped."
+}
+
+reload_service() {
+	stop_service
+	start_service
+}
+
+service_running() {
+	echo "pid of ${NAME}: $(pidof ${NAME})"
+}
+
+status_service() {
+	service_running
+}
