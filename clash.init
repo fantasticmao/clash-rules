@@ -1,0 +1,64 @@
+#!/bin/sh /etc/rc.common
+
+# Copyright (c) 2021 fantasticmao
+USE_PROCD=1
+START=99
+
+NAME=clash
+REDIR_PORT=7892
+DNS_PORT=8853
+CLASH_BIN="/usr/bin/${NAME}"
+CLASH_CONFIG="/etc/clash"
+CLASH_LOG="/var/log/clash.log"
+
+set_iptables() {
+	# iptables manual page
+	# https://man7.org/linux/man-pages/man8/iptables.8.html
+	iptables -t nat -N CLASH
+
+	iptables -t nat -A CLASH -p udp -m udp --dport 53 -j REDIRECT --to-ports ${DNS_PORT}
+	iptables -t nat -A CLASH -p tcp -m tcp --dport 53 -j REDIRECT --to-ports ${DNS_PORT}
+	iptables -t nat -A CLASH -d 0.0.0.0/8 -j RETURN
+	iptables -t nat -A CLASH -d 127.0.0.0/8 -j RETURN
+	# private address space
+	# https://datatracker.ietf.org/doc/html/rfc1918#section-3
+	iptables -t nat -A CLASH -d 10.0.0.0/8 -j RETURN
+	iptables -t nat -A CLASH -d 172.16.0.0/12 -j RETURN
+	iptables -t nat -A CLASH -d 192.168.0.0/16 -j RETURN
+
+	iptables -t nat -A CLASH -p tcp -j REDIRECT --to-ports ${REDIR_PORT}
+	iptables -t nat -I PREROUTING 1 -p all -j CLASH
+}
+
+unset_iptables() {
+	# iptables manual page
+	# https://man7.org/linux/man-pages/man8/iptables.8.html
+	iptables -t nat -D PREROUTING -j CLASH
+	iptables -t nat -F CLASH
+	iptables -t nat -X CLASH
+}
+
+start_service() {
+	nohup ${CLASH_BIN} -d ${CLASH_CONFIG} >>${CLASH_LOG} &
+	set_iptables
+	echo "${NAME} start success!"
+}
+
+stop_service() {
+	unset_iptables
+	kill $(pidof ${NAME})
+	echo "${NAME} stopped."
+}
+
+reload_service() {
+	stop_service
+	start_service
+}
+
+service_running() {
+	echo "pid of ${NAME}: $(pidof ${NAME})"
+}
+
+status_service() {
+	service_running
+}
