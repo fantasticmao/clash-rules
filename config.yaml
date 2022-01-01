@@ -55,7 +55,7 @@ external-ui: folder
 # secret: ""
 
 # Outbound interface name
-interface-name: en0
+# interface-name: en0
 
 # Static hosts for DNS server and connection establishment (like /etc/hosts)
 #
