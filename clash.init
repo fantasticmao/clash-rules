@@ -9,7 +9,6 @@ REDIR_PORT=7892
 DNS_PORT=8853
 CLASH_BIN="/usr/bin/${NAME}"
 CLASH_CONFIG="/etc/clash"
-CLASH_LOG="/var/log/clash.log"
 
 set_iptables() {
 	# iptables manual page
@@ -39,7 +38,7 @@ unset_iptables() {
 }
 
 start_service() {
-	nohup ${CLASH_BIN} -d ${CLASH_CONFIG} >>${CLASH_LOG} &
+	nohup ${CLASH_BIN} -d ${CLASH_CONFIG} &
 	set_iptables
 	echo "${NAME} start success!"
 }
