@@ -6,10 +6,9 @@ START=99
 
 NAME=node_exporter
 NODE_EXPORTER_BIN="/usr/bin/node_exporter"
-NODE_EXPORTER_LOG="/var/log/node_exporter.log"
 
 start_service() {
-	nohup ${NODE_EXPORTER_BIN} >${NODE_EXPORTER_LOG} &
+	nohup ${NODE_EXPORTER_BIN} &
 	echo "${NAME} start success!"
 }
 

@@ -8,5 +8,11 @@ indent_style = space
 indent_size = 4
 
 [{*.yml, *.yaml}]
-indent_style = space
+indent_size = 2
+
+[*.init]
+indent_style = tab
+indent_size = 1
+
+[*.md]
 indent_size = 2

@@ -10,7 +10,8 @@ Loyalsoldier 版的规则集更加普适和通用，FantasticMao 版的规则集
 
 ### 安装 Clash Premium
 
-实现外部加载 Clash 规则时，需要使用 [Rule Provider](https://github.com/Dreamacro/clash/wiki/premium-core-features#rule-providers) 高级特性，因此需要用户安装闭源的 [Clash Premium](https://github.com/Dreamacro/clash/releases/tag/premium)，而非开源的 Clash。
+实现外部加载 Clash 规则时，需要使用 [Rule Provider](https://github.com/Dreamacro/clash/wiki/premium-core-features#rule-providers)
+高级特性，因此需要用户安装闭源的 [Clash Premium](https://github.com/Dreamacro/clash/releases/tag/premium)，而非开源的 Clash。
 
 Clash Premium 的使用方式请参考 [premium core features](https://github.com/Dreamacro/clash/wiki/premium-core-features)。
 

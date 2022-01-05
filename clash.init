@@ -15,8 +15,8 @@ set_iptables() {
 	# https://man7.org/linux/man-pages/man8/iptables.8.html
 	iptables -t nat -N CLASH
 
-	iptables -t nat -A CLASH -p udp -m udp --dport 53 -j REDIRECT --to-ports ${DNS_PORT}
-	iptables -t nat -A CLASH -p tcp -m tcp --dport 53 -j REDIRECT --to-ports ${DNS_PORT}
+	iptables -t nat -A CLASH -p udp --dport 53 -j REDIRECT --to-ports ${DNS_PORT}
+	iptables -t nat -A CLASH -p tcp --dport 53 -j REDIRECT --to-ports ${DNS_PORT}
 	iptables -t nat -A CLASH -d 0.0.0.0/8 -j RETURN
 	iptables -t nat -A CLASH -d 127.0.0.0/8 -j RETURN
 	# private address space
@@ -25,6 +25,7 @@ set_iptables() {
 	iptables -t nat -A CLASH -d 172.16.0.0/12 -j RETURN
 	iptables -t nat -A CLASH -d 192.168.0.0/16 -j RETURN
 
+	# iptables -t nat -A CLASH -p tcp -j LOG --log-prefix "clash-proxy:"
 	iptables -t nat -A CLASH -p tcp -j REDIRECT --to-ports ${REDIR_PORT}
 	iptables -t nat -I PREROUTING 1 -p all -j CLASH
 }
