@@ -8,7 +8,7 @@ NAME=node_exporter
 NODE_EXPORTER_BIN="/usr/bin/node_exporter"
 
 start_service() {
-	nohup ${NODE_EXPORTER_BIN} &
+	nohup ${NODE_EXPORTER_BIN} > /dev/null &
 	echo "${NAME} start success!"
 }
 
