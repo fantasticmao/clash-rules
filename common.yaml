@@ -71,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,pokemon-home.com
+  - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,sketch.com
   - DOMAIN-SUFFIX,sketchapp.com
