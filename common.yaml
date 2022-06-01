@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,blogger.com
   - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,codecov.io
   - DOMAIN-SUFFIX,codepen.io
   - DOMAIN-SUFFIX,diygod.me

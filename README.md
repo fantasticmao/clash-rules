@@ -37,11 +37,12 @@ proxies:
 
 proxy-groups:
   - name: PROXY
-    type: select
+    type: url-test
     proxies:
       - proxy01
       - proxy02
     url: http://www.gstatic.com/generate_204
+    interval: 300
 
 # Premium only
 rule-providers:
