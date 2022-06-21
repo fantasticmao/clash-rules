@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,prometheus.io
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,ifixit.com
