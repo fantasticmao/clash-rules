@@ -20,7 +20,6 @@ payload:
   - DOMAIN-KEYWORD,jetbrains
   - DOMAIN-KEYWORD,medium
   - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-KEYWORD,mysql
   - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,nintendo
   - DOMAIN-KEYWORD,nyt
@@ -58,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,ftchinese.com
+  - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,gravatar.com
@@ -69,12 +69,14 @@ payload:
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,leetcode.com
+  - DOMAIN-SUFFIX,mysql.com
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,news.gov.hk
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,pokemon-home.com
   - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,redis.io
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,sketch.com
   - DOMAIN-SUFFIX,sketchapp.com
