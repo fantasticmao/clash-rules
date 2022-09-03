@@ -31,6 +31,7 @@ payload:
   - DOMAIN-KEYWORD,reddit
   - DOMAIN-KEYWORD,stackoverflow
   - DOMAIN-KEYWORD,steam
+  - DOMAIN-KEYWORD,switch
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,tumblr
