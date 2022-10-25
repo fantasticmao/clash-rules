@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,catchen.me
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,cdn.sstatic.net
   - DOMAIN-SUFFIX,codecov.io
   - DOMAIN-SUFFIX,codepen.io
   - DOMAIN-SUFFIX,diygod.me
@@ -78,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,pokemon-home.com
+  - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redis.io
   - DOMAIN-SUFFIX,rsshub.app
