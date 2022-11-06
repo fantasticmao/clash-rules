@@ -28,6 +28,7 @@ payload:
   - DOMAIN-KEYWORD,outlook
   - DOMAIN-KEYWORD,phncdn
   - DOMAIN-KEYWORD,pornhub
+  - DOMAIN-KEYWORD,qbittorrent
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,reddit
   - DOMAIN-KEYWORD,stackoverflow
