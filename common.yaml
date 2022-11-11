@@ -24,6 +24,7 @@ payload:
   - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,nintendo
   - DOMAIN-KEYWORD,nyt
+  - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,oracle
   - DOMAIN-KEYWORD,outlook
   - DOMAIN-KEYWORD,phncdn
