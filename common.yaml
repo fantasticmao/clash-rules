@@ -75,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,leetcode.com
+  - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,mysql.com
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,news.gov.hk
