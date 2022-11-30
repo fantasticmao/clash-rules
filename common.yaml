@@ -51,6 +51,7 @@ payload:
   - DOMAIN-KEYWORD,ytimg
   - DOMAIN-SUFFIX,a-wing.top
   - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,blogger.com
   - DOMAIN-SUFFIX,bloomberg.com
