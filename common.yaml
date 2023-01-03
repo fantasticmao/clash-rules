@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,diygod.me
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,files.pythonhosted.org
   - DOMAIN-SUFFIX,ftchinese.com
   - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,go.dev
