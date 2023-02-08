@@ -82,6 +82,7 @@ payload:
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,news.gov.hk
   - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,pokemon-home.com
   - DOMAIN-SUFFIX,pypi.org
