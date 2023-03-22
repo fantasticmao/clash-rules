@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,bbc
+  - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,disqus
   - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,dribbble
