@@ -86,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,pokemon-home.com
+  - DOMAIN-SUFFIX,ptt.cc
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redis.io
