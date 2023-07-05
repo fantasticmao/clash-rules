@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-SUFFIX,files.pythonhosted.org
   - DOMAIN-SUFFIX,ftchinese.com
+  - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,grammarly.com
