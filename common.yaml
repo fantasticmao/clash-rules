@@ -88,8 +88,10 @@ payload:
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,opentracing.io
+  - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pokemon-home.com
   - DOMAIN-SUFFIX,ptt.cc
+  - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redis.io
