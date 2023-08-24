@@ -78,6 +78,7 @@ payload:
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,leetcode.com
