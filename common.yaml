@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,catchen.me
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.sstatic.net
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,codecov.io
   - DOMAIN-SUFFIX,codepen.io
   - DOMAIN-SUFFIX,debian.org
