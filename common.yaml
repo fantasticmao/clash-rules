@@ -42,7 +42,6 @@ payload:
   - DOMAIN-KEYWORD,tweet
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-KEYWORD,twitch
-  - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN-KEYWORD,v2fly
   - DOMAIN-KEYWORD,v2ray
@@ -61,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.sstatic.net
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,codecov.io
   - DOMAIN-SUFFIX,codepen.io
   - DOMAIN-SUFFIX,debian.org
@@ -108,9 +108,10 @@ payload:
   - DOMAIN-SUFFIX,spring.io
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,tingtalk.me
   - DOMAIN-SUFFIX,ttvnw.net
-  - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,ycombinator.com
   - DOMAIN-SUFFIX,youtu.be
