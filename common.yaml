@@ -70,6 +70,8 @@ payload:
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-SUFFIX,files.pythonhosted.org
+  - DOMAIN-SUFFIX,fliqlo.app
+  - DOMAIN-SUFFIX,fliqlo.com
   - DOMAIN-SUFFIX,ftchinese.com
   - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,grafana.com
