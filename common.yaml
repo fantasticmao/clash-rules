@@ -74,6 +74,9 @@ payload:
   - DOMAIN-SUFFIX,fliqlo.app
   - DOMAIN-SUFFIX,fliqlo.com
   - DOMAIN-SUFFIX,ftchinese.com
+  - DOMAIN-SUFFIX,justmysocks.net
+  - DOMAIN-SUFFIX,justmysocks2.net
+  - DOMAIN-SUFFIX,justmysocks5.net
   - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,go.dev
