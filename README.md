@@ -49,13 +49,13 @@ rule-providers:
   common:
     type: http
     behavior: classical
-    url: https://fastly.jsdelivr.net/gh/fantasticmao/clash-rules@main/common.yaml
+    url: https://gh-proxy.com/https://raw.githubusercontent.com/fantasticmao/clash-rules/main/common.yaml
     interval: 3600
     path: ./ruleset/common.yaml
   telegramcidr:
     type: http
     behavior: classical
-    url: https://fastly.jsdelivr.net/gh/fantasticmao/clash-rules@main/telegramcidr.yaml
+    url: https://gh-proxy.com/https://raw.githubusercontent.com/fantasticmao/clash-rules/main/telegramcidr.yaml
     interval: 3600
     path: ./ruleset/telegramcidr.yaml
 
