@@ -34,7 +34,6 @@ payload:
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,reddit
   - DOMAIN-KEYWORD,stackoverflow
-  - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,switch
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,tiktok
@@ -51,6 +50,7 @@ payload:
   - DOMAIN-KEYWORD,ytimg
   - DOMAIN-SUFFIX,a-wing.top
   - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,argotunnel.com
@@ -74,16 +74,11 @@ payload:
   - DOMAIN-SUFFIX,fliqlo.app
   - DOMAIN-SUFFIX,fliqlo.com
   - DOMAIN-SUFFIX,ftchinese.com
-  - DOMAIN-SUFFIX,justmysocks.net
-  - DOMAIN-SUFFIX,justmysocks2.net
-  - DOMAIN-SUFFIX,justmysocks5.net
   - DOMAIN-SUFFIX,gcr.io
-  - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,go.dev
+  - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,gravatar.com
-  - DOMAIN-SUFFIX,prestodb.io
-  - DOMAIN-SUFFIX,prometheus.io
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,ifixit.com
@@ -91,6 +86,9 @@ payload:
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jtvnw.net
+  - DOMAIN-SUFFIX,justmysocks.net
+  - DOMAIN-SUFFIX,justmysocks2.net
+  - DOMAIN-SUFFIX,justmysocks5.net
   - DOMAIN-SUFFIX,leetcode.com
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,mysql.com
@@ -101,6 +99,8 @@ payload:
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pokemon-home.com
+  - DOMAIN-SUFFIX,prestodb.io
+  - DOMAIN-SUFFIX,prometheus.io
   - DOMAIN-SUFFIX,proxmox.com
   - DOMAIN-SUFFIX,ptt.cc
   - DOMAIN-SUFFIX,pximg.net
@@ -113,6 +113,12 @@ payload:
   - DOMAIN-SUFFIX,sonatype.org
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,spring.io
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,t66y.com
