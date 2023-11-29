@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,blogger.com
   - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-SUFFIX,brew.sh
   - DOMAIN-SUFFIX,catchen.me
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.sstatic.net
