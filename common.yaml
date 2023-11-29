@@ -3,13 +3,11 @@ payload:
   - DOMAIN-KEYWORD,bbc
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,disqus
-  - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,dribbble
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,feedburner
   - DOMAIN-KEYWORD,ggpht
-  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,gmodules
   - DOMAIN-KEYWORD,godoc
@@ -66,6 +64,8 @@ payload:
   - DOMAIN-SUFFIX,codepen.io
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,diygod.me
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,economist.com
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
@@ -75,6 +75,11 @@ payload:
   - DOMAIN-SUFFIX,fliqlo.com
   - DOMAIN-SUFFIX,ftchinese.com
   - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,grammarly.com
