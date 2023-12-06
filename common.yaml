@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,blogger.com
   - DOMAIN-SUFFIX,bloomberg.com
