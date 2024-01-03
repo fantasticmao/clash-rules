@@ -80,6 +80,7 @@ payload:
   - DOMAIN-SUFFIX,ftchinese.com
   - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubassets.com
