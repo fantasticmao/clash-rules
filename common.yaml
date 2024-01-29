@@ -66,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,codecov.io
   - DOMAIN-SUFFIX,codepen.io
   - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,devv.ai
   - DOMAIN-SUFFIX,diygod.me
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
