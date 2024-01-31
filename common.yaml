@@ -137,5 +137,6 @@ payload:
   - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,ycombinator.com
   - DOMAIN-SUFFIX,youtu.be
