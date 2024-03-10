@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,blackmagicdesign.com
   - DOMAIN-SUFFIX,blogger.com
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,bootstrapcdn.com
