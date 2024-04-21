@@ -126,6 +126,7 @@ payload:
   - DOMAIN-SUFFIX,sketch.com
   - DOMAIN-SUFFIX,sketchapp.com
   - DOMAIN-SUFFIX,sonatype.org
+  - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,spring.io
   - DOMAIN-SUFFIX,steamcommunity.com
