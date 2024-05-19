@@ -144,5 +144,6 @@ payload:
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,wallhaven.cc
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,ycombinator.com
   - DOMAIN-SUFFIX,youtu.be
