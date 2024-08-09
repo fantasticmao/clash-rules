@@ -106,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,justmysocks.net
   - DOMAIN-SUFFIX,justmysocks2.net
   - DOMAIN-SUFFIX,justmysocks5.net
+  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,leetcode.com
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,msecnd.net
@@ -118,6 +119,7 @@ payload:
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,plantuml.com
   - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,pokemon-home.com
   - DOMAIN-SUFFIX,prestodb.io
   - DOMAIN-SUFFIX,prometheus.io
