@@ -14,15 +14,11 @@ payload:
   - DOMAIN-KEYWORD,golang
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,icloud
-  - DOMAIN-KEYWORD,imdb
   - DOMAIN-KEYWORD,instagram
-  - DOMAIN-KEYWORD,jetbrains
   - DOMAIN-KEYWORD,medium
-  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,nintendo
   - DOMAIN-KEYWORD,nyt
-  - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,oracle
   - DOMAIN-KEYWORD,outlook
   - DOMAIN-KEYWORD,phncdn
@@ -77,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,economist.com
   - DOMAIN-SUFFIX,excalidraw.com
+  - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,figma.com
@@ -99,6 +96,7 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,ifixit.com
+  - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,jquery.com
@@ -108,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,justmysocks5.net
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,leetcode.com
+  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,mysql.com
@@ -115,6 +114,7 @@ payload:
   - DOMAIN-SUFFIX,news.gov.hk
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,obsproject.com
+  - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,plantuml.com
