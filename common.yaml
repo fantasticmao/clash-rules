@@ -94,6 +94,7 @@ payload:
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,grpc.io
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,home-assistant.io
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,imdb.com
