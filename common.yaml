@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.sstatic.net
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,clash.wiki
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cloudfunctions.net
