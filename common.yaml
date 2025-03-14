@@ -120,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,opentracing.io
+  - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,plantuml.com
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,poe.com
