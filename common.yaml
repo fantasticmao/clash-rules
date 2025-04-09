@@ -34,7 +34,6 @@ payload:
   - DOMAIN-KEYWORD,tweet
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-KEYWORD,twitch
-  - DOMAIN-KEYWORD,v2ex
   - DOMAIN-KEYWORD,v2fly
   - DOMAIN-KEYWORD,v2ray
   - DOMAIN-KEYWORD,wikimedia
@@ -74,7 +73,6 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,economist.com
   - DOMAIN-SUFFIX,excalidraw.com
-  - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,figma.com
@@ -101,13 +99,14 @@ payload:
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,intel.com
+  - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,justmysocks.net
   - DOMAIN-SUFFIX,justmysocks2.net
   - DOMAIN-SUFFIX,justmysocks5.net
-  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,leetcode.com
+  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoft365.com
   - DOMAIN-SUFFIX,mongodb.com
@@ -121,8 +120,8 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,opentracing.io
   - DOMAIN-SUFFIX,openwrt.org
-  - DOMAIN-SUFFIX,plantuml.com
   - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,plantuml.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,pokemon-home.com
   - DOMAIN-SUFFIX,prestodb.io
@@ -153,6 +152,7 @@ payload:
   - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,ycombinator.com
