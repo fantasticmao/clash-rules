@@ -91,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,grafana.com
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,grpc.io
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,home-assistant.io
