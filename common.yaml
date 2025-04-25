@@ -108,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,justmysocks5.net
   - DOMAIN-SUFFIX,leetcode.com
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,maven.org
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoft365.com
   - DOMAIN-SUFFIX,mongodb.com
