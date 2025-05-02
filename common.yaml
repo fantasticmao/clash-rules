@@ -6,7 +6,6 @@ payload:
   - DOMAIN-KEYWORD,dribbble
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,facebook
-  - DOMAIN-KEYWORD,feedburner
   - DOMAIN-KEYWORD,ggpht
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,gmodules
@@ -77,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,excalidraw.com
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,feedburner.com
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-SUFFIX,files.pythonhosted.org
   - DOMAIN-SUFFIX,fliqlo.app
