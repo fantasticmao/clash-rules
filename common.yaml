@@ -113,6 +113,7 @@ payload:
   - DOMAIN-SUFFIX,maven.org
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoft365.com
+  - DOMAIN-SUFFIX,missav.ai
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,mysql.com
