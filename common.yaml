@@ -120,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,news.gov.hk
   - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,onedrive.com
