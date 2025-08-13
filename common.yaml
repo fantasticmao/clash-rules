@@ -83,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,fliqlo.com
   - DOMAIN-SUFFIX,ftchinese.com
   - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,geojson.io
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
