@@ -103,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,intel.com
+  - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jtvnw.net
