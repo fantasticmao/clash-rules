@@ -13,7 +13,6 @@ payload:
   - DOMAIN-KEYWORD,golang
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,icloud
-  - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,medium
   - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,nintendo
@@ -57,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,catchen.me
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.sstatic.net
+  - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,clash.wiki
   - DOMAIN-SUFFIX,claude.ai
@@ -102,6 +102,7 @@ payload:
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,jetbrains.com
