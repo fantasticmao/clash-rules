@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,clash.wiki
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare.dev
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cloudfunctions.net
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
