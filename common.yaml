@@ -141,6 +141,7 @@ payload:
   - DOMAIN-SUFFIX,ptt.cc
   - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redis.io
   - DOMAIN-SUFFIX,rsshub.app
