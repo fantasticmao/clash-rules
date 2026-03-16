@@ -146,6 +146,7 @@ payload:
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redis.io
+  - DOMAIN-SUFFIX,ros.org
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,sketch.com
   - DOMAIN-SUFFIX,sketchapp.com
