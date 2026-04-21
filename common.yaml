@@ -12,7 +12,6 @@ payload:
   - DOMAIN-KEYWORD,godoc
   - DOMAIN-KEYWORD,golang
   - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,medium
   - DOMAIN-KEYWORD,netflix
   - DOMAIN-KEYWORD,nintendo
@@ -103,6 +102,9 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,home-assistant.io
   - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.cn
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,imdb.com
