@@ -69,6 +69,7 @@ payload:
   - DOMAIN-SUFFIX,crystalmark.info
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,devv.ai
   - DOMAIN-SUFFIX,diygod.me
