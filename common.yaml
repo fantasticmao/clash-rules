@@ -111,7 +111,6 @@ payload:
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,intel.com
-  - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jquery.com
