@@ -102,7 +102,6 @@ payload:
   - DOMAIN-SUFFIX,home-assistant.io
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloud.cn
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,ifixit.com
