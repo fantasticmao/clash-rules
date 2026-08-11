@@ -20,7 +20,6 @@ payload:
   - DOMAIN-KEYWORD,outlook
   - DOMAIN-KEYWORD,phncdn
   - DOMAIN-KEYWORD,pornhub
-  - DOMAIN-KEYWORD,qbittorrent
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,reddit
   - DOMAIN-KEYWORD,stackoverflow
@@ -148,6 +147,7 @@ payload:
   - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redis.io
   - DOMAIN-SUFFIX,ros.org
