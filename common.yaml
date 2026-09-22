@@ -91,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,grafana.com
