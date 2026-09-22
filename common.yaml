@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,diygod.me
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,dockerstatic.com
   - DOMAIN-SUFFIX,economist.com
   - DOMAIN-SUFFIX,excalidraw.com
   - DOMAIN-SUFFIX,fb.me
