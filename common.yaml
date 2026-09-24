@@ -157,6 +157,7 @@ payload:
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,sketch.com
   - DOMAIN-SUFFIX,sketchapp.com
+  - DOMAIN-SUFFIX,sonatype.com
   - DOMAIN-SUFFIX,sonatype.org
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,speedtest.net
