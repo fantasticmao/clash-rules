@@ -133,6 +133,7 @@ payload:
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,news.gov.hk
   - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,obsproject.com
